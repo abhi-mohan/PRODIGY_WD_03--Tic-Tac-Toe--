@@ -36,7 +36,7 @@ To get a local copy of the project up and running, follow these steps:
 
 1. **Clone the repository:**
 
-   git clone https://github.com/your-username/tic-tac-toe.git
+   git clone https://github.com/abhi-mohan/PRODIGY_WD_03--Tic-Tac-Toe--.git
 Navigate to the project directory:
 
 bash
